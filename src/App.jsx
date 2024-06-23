@@ -1,4 +1,4 @@
-import React from 'react';
+
 import Header from './components/Header';
 import Hero from './components/Hero';
 import Apoyados from './components/Apoyados'
@@ -10,7 +10,7 @@ import AboutUs from './components/AboutUs';
 import MarketSection from './components/MarketSection';
 import ContactForm from './components/ContactForm';
 import Footer from './components/Footer';
-import { Analytics } from "@vercel/analytics/react"
+import { Analytics } from '@vercel/analytics/react';
 
 function App() {
   return (
