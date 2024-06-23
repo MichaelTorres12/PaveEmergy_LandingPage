@@ -10,6 +10,7 @@ import AboutUs from './components/AboutUs';
 import MarketSection from './components/MarketSection';
 import ContactForm from './components/ContactForm';
 import Footer from './components/Footer';
+import { Analytics } from "@vercel/analytics/react"
 
 function App() {
   return (
